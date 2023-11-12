@@ -1,0 +1,14 @@
+
+# Ignore compiled binaries and build directories
+node_modules/
+build/
+dist/
+
+# Ignore configuration files that may contain sensitive information
+config.js
+.env
+
+# Ignore temporary files
+*.tmp
+*.temp
+
